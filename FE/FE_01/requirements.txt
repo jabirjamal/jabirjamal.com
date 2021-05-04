@@ -2,4 +2,4 @@ ipykernel=5.3.4
 ipython=7.22.0
 ipython_genutils
 matplotlib=3.4.1
-pandas=1.2.4
+pandas==1.2.4
