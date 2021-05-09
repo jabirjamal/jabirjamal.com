@@ -1,0 +1,57 @@
+Part I of the document contains four chapters. These chapters are those which 
+common approaches were found for both building and fire code related topics. 
+Chapter 1 includes administrative provisions such as intent, scope and requirements 
+related to qualifications, documentation, review, maintenance and change of use or 
+occupancy.  This section could be used as a framework for jurisdictions even when 
+the ICCPC is not adopted. Provisions for approving acceptable methods are also 
+provided in Chapter 1. Chapter 2 provides definitions specific to this ICCPC. 
+ 
+Chapter 3, entitled “Design Performance Levels,” provides the framework for 
+determining the appropriate performance desired from a building or facility, based on 
+a particular event such as wind, earthquake or fire. Specifically, the user of the code 
+may easily determine the expected performance level of a building during an 
+earthquake. In the current prescriptive code, the required performance is simply 
+prescribed without a method to determine or quantify the level of the building or 
+facility’s performance. In other words, all the requirements such as heights and 
+areas, sprinklers and structural specifications are indirectly attempting to address the 
+hazards buildings are subjected to and the losses society is able to tolerate. Since 
+these issues are dealt with indirectly, it is difficult to measure the level of safety 
+provided.  Therefore, when applying the alternate materials and methods approach 
+for the prescriptive code, it is difficult to determine what is meant by “equivalent.”. The 
+designer frequently ends up trying to determine what is considered to be equivalent. 
+The problem with the designer determining the intended performance level is that 
+such decisions are not technical in nature. Such decisions are value judgments, 
+which should ultimately be made by policy makers. This chapter can serve as the link 
+between the policy makers and the designers by providing measurable guidance as 
+to desired performance.  
+ 
+Finally, Chapter 4 addresses topics of reliability and durability and how these issues 
+interact with the overall performance of a building or facility over the life of the 
+building or facility. This is an issue that has always been relevant to codes and 
+standards but becomes more obvious when a performance code requires a designer 
+to consider buildings as a system. Also, there is often a concern that when 
+performance designs are implemented, necessary redundancies may be removed. 
+For example, greater dependence may be placed on the use of a single active fire 
+protection system rather than relying on a combination of passive compartmentation 
+and active fire protection systems. It is hoped that a specific focus on the issues of 
+reliability and durability within the code document will help to address this concern in 
+the future. Reliability includes redundancy, maintenance, durability, quality of 
+installation, integrity of the design and, generally, the qualifications of those involved 
+with this process.   
+ 
+Parts II and III–Building and Fire 
+ 
+Parts II and III provide topic-specific qualitative statements of intent that relate to 
+current prescriptive code requirements. As noted, Parts II and III are building and fire 
+components, respectively. The reason the building and fire components were not fully 
+integrated was due to the concerns relating to how such a document might be used.  
+For instance, a fire department may want to use the document for existing buildings 
+or facilities, but would not be able to adopt chapters dealing with issues such as 
+structural stability or moisture. Therefore, the code is designed so a fire department 
+could adopt only Parts I and III. When Part II is adopted the entire document should 
+be adopted, Part III should always be included in the adoption of the performance 
+code.   
+ 
+The topic-specific qualitative statements are the basic elements missing from the 
+prescriptive codes. The statements, found in Parts II and III, follow a hierarchy, as 
+described below. 
