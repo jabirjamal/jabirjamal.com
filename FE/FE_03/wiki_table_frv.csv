@@ -1,0 +1,89 @@
+No.,Name,District,Pumper,Aerial,Specialist & Support,Co-located with CFA
+1,Eastern Hill,Central,"P1A, P1B, UP1",LP1,"CU1, DC1A, DC1B, RHB1",No
+2,West Melbourne,Central,"P2A, P2B",-,-,No
+3,Carlton,Central,P3,-,R3,No
+4,Brunswick,Central,P4,-,-,No
+5,Broadmeadows,Northern,"P5, PT5",-,-,No
+6,Pascoe Vale,Northern,"P6, PT6",-,-,No
+7,Thomastown,Northern,"P7, PT7",TB7,"R7, DC7",No
+8,Burnley Complex,Training and administration facility,-,-,-,Training and administration facility
+9,Somerton,Northern,"P9, PT9",-,-,No
+10,Richmond,Central,P10,TB10,"T10A, T10BPods: BA, BD, FDS,GP, HART, HL, HRS,USAR-1, TRS",No
+11,Epping,Northern,PT11,-,-,No
+12,Preston,Northern,P12,-,-,No
+13,Northcote,Central,P13,-,-,No
+14,Bundoora,Northern,"P14A, P14B",-,-,No
+15,Heidelberg,Northern,P15,-,-,No
+16,Greensborough,Northern,PT16,-,-,No
+18,Hawthorn,Central,P18,-,-,No
+19,North Balwyn,Eastern,PT19,-,-,No
+20,Box Hill,Eastern,P20,-,-,No
+22,Ringwood,Eastern,PT22,TB22,-,No
+23,Burwood,Eastern,P23,-,Pod: WRM-5,No
+24,Glen Iris,Southern 1,P24,-,-,No
+25,Oakleigh,Southern 1,P25,"TB25, LP25","R25, DC25",No
+26,Croydon,Eastern,"P26, PT26",-,-,No
+27,Nunawading,Eastern,PT27,-,R27,No
+28,Vermont South,Eastern,PT28,-,-,No
+29,Clayton,Southern 1,PT29,-,-,No
+30,Templestowe,Eastern,"P30, PT30",-,-,No
+31,Glen Waverley,Southern 1,"P31, PT31",-,-,No
+32,Ormond,Southern 1,P32,-,-,No
+33,Mentone,Southern 1,PT33,-,-,No
+34,Highett,Southern 1,"P34, PT34",-,-,No
+35,Windsor,Central,"P35A, P35B",LP35,-,No
+38,South Melbourne,Central,"P38A, P38B",-,"BA38, BS38, HZ38",No
+39,Port Melbourne,Central,"P39A, P39B",-,"FS39 also respond nearby fireboats:FB1, FB2, FB4, FB6.",No
+40,Laverton,Western 1,PT40,-,-,No
+41,St Albans,Western 2,PT41,-,-,No
+42,Newport,Western 1,"P42, UP42",-,-,No
+43,Deer Park,Western 2,"P43, PT43",-,-,No
+44,Sunshine,Western 2,PT44,TB44,"R44, DC44A, DC44BPods: ERM, WRM-3",No
+45,Spotswood,Western 1,P45,-,-,No
+46,Altona,Western 1,PT46,-,-,No
+47,Footscray,Western 1,P47,LP47,"T47Pods: FDS, HL, ML",No
+48,Taylors Lakes,Western 2,PT48,-,-,No
+49,North Laverton,Western 1,PT49,-,-,No
+50,Ascot Vale,Central,P50,-,-,No
+51,Keilor,Western 2,"P51A, P51B",-,-,No
+52,Tullamarine,Western 2,PT52,-,-,No
+53,Sunbury,Western 2,P53,-,-,Yes
+54,Greenvale,Western 2,P54,-,-,Yes
+55,Caroline Springs,Western 2,P55,-,-,Yes
+56,Melton,Western 2,P56,-,R56,Yes
+57,Tarneit,Western 1,P57,-,-,No
+58,Point Cook,Western 1,P58,-,-,Yes
+59,Derrimut,Western 1,PT59,-,-,No
+60,VEMTC,Training facility,-,-,-,Training facility
+61,Lara,Western 3,P61,-,HZ61,Yes
+62,Corio,Western 3,"P62A, P62B",-,BA62,Yes
+63,Geelong City,Western 3,"P63A, P63B",LP63,"R63, TR63",Yes
+64,Belmont,Western 3,P64,-,-,Yes
+66,Ocean Grove,Western 3,P66,-,-,Yes
+67,Ballarat City,North & West Regional,"P67A, P67B",LP67,"BA67, TR67",Yes
+68,Lucas,North & West Regional,P68,-,HZ68,No
+70,Warrnambool,North & West Regional,P70,AP70,T70,Yes
+71,Portland,North & West Regional,P71,-,-,Yes
+72,Mildura,North & West Regional,P72,AP72,TO72,Yes
+73,Bendigo,North & West Regional,"P73A, P73B",LP73,BA73,Yes
+74,Wangaratta,South & East Regional,P74,-,T74,Yes
+75,Shepparton,South & East Regional,P75,AP75,HZ75,Yes
+76,Wodonga,South & East Regional,"P76, PT76",-,-,Yes
+77,Traralgon,South & East Regional,P77,LP77,-,Yes
+78,Morwell,South & East Regional,P78,AP78,-,Yes
+79,Latrobe West,South & East Regional,P79,-,-,No
+80,Craigieburn,Northern,P80,-,T80,Yes
+81,South Morang,Northern,P81,-,-,Yes
+82,Eltham City,Eastern,P82,-,-,No
+84,South Warrandyte,Eastern,P84,-,-,Yes
+85,Boronia,Eastern,P85,-,-,Yes
+86,Rowville,Southern 1,P86,-,-,Yes
+87,Dandenong,Southern 2,"P87A, P87B",LP87,"R87, DC87",Yes
+88,Hallam,Southern 2,P88,-,HZ88,Yes
+89,Springvale,Southern 1,P89,-,-,Yes
+90,Patterson River,Southern 1,P90,-,-,Yes
+91,Frankston,Southern 2,"P91A, P91B",-,-,Yes
+92,Cranbourne,Southern 2,P92,-,-,Yes
+93,Pakenham,Southern 2,P93,-,-,Yes
+94,Mornington,Southern 2,P94,-,-,Yes
+95,Rosebud,Southern 2,P95,-,-,Yes

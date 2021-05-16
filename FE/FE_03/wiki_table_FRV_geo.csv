@@ -1,0 +1,89 @@
+,No.,Name,District,Pumper,Aerial,Specialist & Support,Co-located with CFA,add,lat,lng
+0,1,Eastern Hill,Central,"P1A, P1B, UP1",LP1,"CU1, DC1A, DC1B, RHB1",No,"1234 Yates St, Victoria, BC V8V 3M8, Canada",48.425096,-123.347728
+1,2,West Melbourne,Central,"P2A, P2B",-,-,No,"60 Batman St, West Melbourne VIC 3003, Australia",-37.8106496,144.9510866
+2,3,Carlton,Central,P3,-,R3,No,"106 Bouverie St, Carlton VIC 3053, Australia",-37.8038817,144.9621337
+3,4,Brunswick,Central,P4,-,-,No,"24 Blyth St, Brunswick VIC 3056, Australia",-37.76594559999999,144.9650959
+4,5,Broadmeadows,Northern,"P5, PT5",-,-,No,"338 Camp Rd, Broadmeadows VIC 3047, Australia",-37.68626190000001,144.9292308
+5,6,Pascoe Vale,Northern,"P6, PT6",-,-,No,"345A Gaffney St, Pascoe Vale VIC 3044, Australia",-37.73162130000001,144.9381796
+6,7,Thomastown,Northern,"P7, PT7",TB7,"R7, DC7",No,"92 Mahoneys Rd, Thomastown VIC 3074, Australia",-37.6933359,144.9994419
+7,8,Burnley Complex,Training and administration facility,-,-,-,Training and administration facility,"450 Burnley St, Richmond VIC 3121, Australia",-37.8293372,145.0057984
+8,9,Somerton,Northern,"P9, PT9",-,-,No,"10 Somerton Park Dr, Campbellfield VIC 3061, Australia",-37.6444759,144.9463676
+9,10,Richmond,Central,P10,TB10,"T10A, T10BPods: BA, BD, FDS,GP, HART, HL, HRS,USAR-1, TRS",No,"456 Albert St, East Melbourne VIC 3002, Australia",-37.8090171,144.9754069
+10,11,Epping,Northern,PT11,-,-,No,"28 Childs Rd, Epping VIC 3076, Australia",-37.660124,145.0257452
+11,12,Preston,Northern,P12,-,-,No,"471 Bell St, Preston VIC 3072, Australia",-37.744617,144.9950081
+12,13,Northcote,Central,P13,-,-,No,"24 Blyth St, Brunswick VIC 3056, Australia",-37.76594559999999,144.9650959
+13,14,Bundoora,Northern,"P14A, P14B",-,-,No,"1083 Plenty Rd, Bundoora VIC 3083, Australia",-37.71085679999999,145.048115
+14,15,Heidelberg,Northern,P15,-,-,No,"161 Bell St, Heidelberg Heights VIC 3081, Australia",-37.7529039,145.0498912
+15,16,Greensborough,Northern,PT16,-,-,No,"141 Grimshaw St, Greensborough VIC 3088, Australia",-37.704386,145.0986272
+16,18,Hawthorn,Central,P18,-,-,No,"45 William St, Hawthorn VIC 3122, Australia",-37.821555,145.040229
+17,19,North Balwyn,Eastern,PT19,-,-,No,"312 Doncaster Rd, Balwyn North VIC 3104, Australia",-37.791692,145.095313
+18,20,Box Hill,Eastern,P20,-,-,No,"364 Maroondah Hwy, Nunawading VIC 3131, Australia",-37.8189656,145.1776463
+19,22,Ringwood,Eastern,PT22,TB22,-,No,"272 Maroondah Hwy, Ringwood VIC 3134, Australia",-37.810775,145.2386836
+20,23,Burwood,Eastern,P23,-,Pod: WRM-5,No,"100 Atherton Rd, Oakleigh VIC 3166, Australia",-37.8996735,145.0952426
+21,24,Glen Iris,Southern 1,P24,-,-,No,"45 William St, Hawthorn VIC 3122, Australia",-37.821555,145.040229
+22,25,Oakleigh,Southern 1,P25,"TB25, LP25","R25, DC25",No,"100 Atherton Rd, Oakleigh VIC 3166, Australia",-37.8996735,145.0952426
+23,26,Croydon,Eastern,"P26, PT26",-,-,No,"272 Maroondah Hwy, Ringwood VIC 3134, Australia",-37.810775,145.2386836
+24,27,Nunawading,Eastern,PT27,-,R27,No,"364 Maroondah Hwy, Nunawading VIC 3131, Australia",-37.8189656,145.1776463
+25,28,Vermont South,Eastern,PT28,-,-,No,"364 Maroondah Hwy, Nunawading VIC 3131, Australia",-37.8189656,145.1776463
+26,29,Clayton,Southern 1,PT29,-,-,No,"529 Clayton Rd, Clayton South VIC 3169, Australia",-37.9390127,145.1166459
+27,30,Templestowe,Eastern,"P30, PT30",-,-,No,"141 Grimshaw St, Greensborough VIC 3088, Australia",-37.704386,145.0986272
+28,31,Glen Waverley,Southern 1,"P31, PT31",-,-,No,"645 Ferntree Gully Rd, Glen Waverley VIC 3150, Australia",-37.9035719,145.1644808
+29,32,Ormond,Southern 1,P32,-,-,No,"299-311 North Rd, Caulfield South VIC 3162, Australia",-37.901805,145.025674
+30,33,Mentone,Southern 1,PT33,-,-,No,"101-103 Nepean Hwy, Mentone VIC 3194, Australia",-37.9810457,145.0707872
+31,34,Highett,Southern 1,"P34, PT34",-,-,No,"150 Wickham Rd, Highett VIC 3190, Australia",-37.9455184,145.0442535
+32,35,Windsor,Central,"P35A, P35B",LP35,-,No,"26 Moray St, Southbank VIC 3006, Australia",-37.8270174,144.9602022
+33,38,South Melbourne,Central,"P38A, P38B",-,"BA38, BS38, HZ38",No,"26 Moray St, Southbank VIC 3006, Australia",-37.8270174,144.9602022
+34,39,Port Melbourne,Central,"P39A, P39B",-,"FS39 also respond nearby fireboats:FB1, FB2, FB4, FB6.",No,"448 Graham St, Port Melbourne VIC 3207, Australia",-37.833066,144.9329205
+35,40,Laverton,Western 1,PT40,-,-,No,"5 Epsom St, Laverton VIC 3028, Australia",-37.8655169,144.7706059
+36,41,St Albans,Western 2,PT41,-,-,No,"30 McIntyre Rd, Sunshine North VIC 3020, Australia",-37.7746542,144.8293878
+37,42,Newport,Western 1,"P42, UP42",-,-,No,"231-239 Melbourne Rd, Newport VIC 3015, Australia",-37.8491639,144.8872508
+38,43,Deer Park,Western 2,"P43, PT43",-,-,No,"782 Ballarat Rd, Deer Park VIC 3023, Australia",-37.7703174,144.7787566
+39,44,Sunshine,Western 2,PT44,TB44,"R44, DC44A, DC44BPods: ERM, WRM-3",No,"30 McIntyre Rd, Sunshine North VIC 3020, Australia",-37.7746542,144.8293878
+40,45,Spotswood,Western 1,P45,-,-,No,"8 Highgate St, Yarraville VIC 3013, Australia",-37.8230571,144.8763524
+41,46,Altona,Western 1,PT46,-,-,No,"7 Akuna St, Altona VIC 3018, Australia",-37.8640525,144.8171775
+42,47,Footscray,Western 1,P47,LP47,"T47Pods: FDS, HL, ML",No,"69 Droop St, Footscray VIC 3011, Australia",-37.795635,144.8958989
+43,48,Taylors Lakes,Western 2,PT48,-,-,No,"3038/470 Melton Hwy, Taylors Lakes VIC 3038, Australia",-37.6955221,144.7750932
+44,49,North Laverton,Western 1,PT49,-,-,No,"88 Boundary Rd, Sunshine West VIC 3020, Australia",-37.8159846,144.8175373
+45,50,Ascot Vale,Central,P50,-,-,No,"69 Droop St, Footscray VIC 3011, Australia",-37.795635,144.8958989
+46,51,Keilor,Western 2,"P51A, P51B",-,-,No,"Keilor East VIC 3033, Australia",-37.7405618,144.8632964
+47,52,Tullamarine,Western 2,PT52,-,-,No,"1 Western Ave, Westmeadows VIC 3049, Australia",-37.6845854,144.8823217
+48,53,Sunbury,Western 2,P53,-,-,Yes,"144 Gap Rd, Sunbury VIC 3429, Australia",-37.5782133,144.7109375
+49,54,Greenvale,Western 2,P54,-,-,Yes,"33 Barrymore Rd, Greenvale VIC 3059, Australia",-37.6506123,144.8945698
+50,55,Caroline Springs,Western 2,P55,-,-,Yes,"8-10 Caroline Springs Blvd, Caroline Springs VIC 3023, Australia",-37.7550994,144.7403132
+51,56,Melton,Western 2,P56,-,R56,Yes,"40-44 Henry St, Melton VIC 3337, Australia",-37.6856098,144.5816237
+52,57,Tarneit,Western 1,P57,-,-,No,"417 Derrimut Rd, Tarneit VIC 3029, Australia",-37.8466604,144.6879669
+53,58,Point Cook,Western 1,P58,-,-,Yes,"85-93 Dunnings Rd, Point Cook VIC 3030, Australia",-37.8863772,144.7465673
+54,59,Derrimut,Western 1,PT59,-,-,No,"337 Fitzgerald Rd, Derrimut VIC 3030, Australia",-37.80768,144.78773
+55,60,VEMTC,Training facility,-,-,-,Training facility,"231-239 Melbourne Rd, Newport VIC 3015, Australia",-37.8491639,144.8872508
+56,61,Lara,Western 3,P61,-,HZ61,Yes,"25 Mill Rd, Lara VIC 3212, Australia",-38.0207138,144.4144286
+57,62,Corio,Western 3,"P62A, P62B",-,BA62,Yes,"30 Birdwood Ave, Norlane VIC 3214, Australia",-38.0995565,144.3527753
+58,63,Geelong City,Western 3,"P63A, P63B",LP63,"R63, TR63",Yes,"69 McKillop St, Geelong VIC 3220, Australia",-38.1536363,144.3600699
+59,64,Belmont,Western 3,P64,-,-,Yes,"2-4 Reynolds Rd, Belmont VIC 3216, Australia",-38.1889458,144.3274334
+60,66,Ocean Grove,Western 3,P66,-,-,Yes,"1 Shell Rd, Ocean Grove VIC 3226, Australia",-38.2574035,144.5365133
+61,67,Ballarat City,North & West Regional,"P67A, P67B",LP67,"BA67, TR67",Yes,"1120 Sturt St, Ballarat Central VIC 3350, Australia",-37.5598646,143.8434761
+62,68,Lucas,North & West Regional,P68,-,HZ68,No,"Delacombe VIC 3356, Australia",-37.5688554,143.7999583
+63,70,Warrnambool,North & West Regional,P70,AP70,T70,Yes,"61-65 Mortlake Rd, Warrnambool VIC 3280, Australia",-38.3687066,142.4929386
+64,71,Portland,North & West Regional,P71,-,-,Yes,"130 Percy St, Portland VIC 3305, Australia",-38.3434733,141.6041329
+65,72,Mildura,North & West Regional,P72,AP72,TO72,Yes,"338 San Mateo Ave, Mildura VIC 3500, Australia",-34.2046234,142.1494721
+66,73,Bendigo,North & West Regional,"P73A, P73B",LP73,BA73,Yes,"145 Hargreaves St, Bendigo VIC 3550, Australia",-36.7567331,144.285121
+67,74,Wangaratta,South & East Regional,P74,-,T74,Yes,"26-30 Handley St, Wangaratta VIC 3677, Australia",-36.3613298,146.3138548
+68,75,Shepparton,South & East Regional,P75,AP75,HZ75,Yes,"268 Maude St, Shepparton VIC 3630, Australia",-36.38218060000001,145.4003175
+69,76,Wodonga,South & East Regional,"P76, PT76",-,-,Yes,"81A Thomas Mitchell Dr, Wodonga VIC 3690, Australia",-36.1331664,146.9017144
+70,77,Traralgon,South & East Regional,P77,LP77,-,Yes,"158 Princes St, Traralgon VIC 3844, Australia",-38.2020679,146.5225119
+71,78,Morwell,South & East Regional,P78,AP78,-,Yes,"158 Princes St, Traralgon VIC 3844, Australia",-38.2020679,146.5225119
+72,79,Latrobe West,South & East Regional,P79,-,-,No,"158 Princes St, Traralgon VIC 3844, Australia",-38.2020679,146.5225119
+73,80,Craigieburn,Northern,P80,-,T80,Yes,"2 Belsay Pl, Craigieburn VIC 3064, Australia",-37.5986978,144.9326453
+74,81,South Morang,Northern,P81,-,-,Yes,"875 Plenty Rd, South Morang VIC 3752, Australia",-37.6477463,145.0909803
+75,82,Eltham City,Eastern,P82,-,-,No,"Eltham VIC 3095, Australia",-37.7217052,145.1448932
+76,84,South Warrandyte,Eastern,P84,-,-,Yes,"29 Falconer Rd, Park Orchards VIC 3114, Australia",-37.7703278,145.2215254
+77,85,Boronia,Eastern,P85,-,-,Yes,"300 Boronia Rd, Boronia VIC 3155, Australia",-37.8602879,145.2653309
+78,86,Rowville,Southern 1,P86,-,-,Yes,"1063 Wellington Rd, Rowville VIC 3178, Australia",-37.9263892,145.2484554
+79,87,Dandenong,Southern 2,"P87A, P87B",LP87,"R87, DC87",Yes,"186-194 Princes Hwy, Dandenong VIC 3175, Australia",-37.9728698,145.2016817
+80,88,Hallam,Southern 2,P88,-,HZ88,Yes,"12 Belgrave-Hallam Rd, Hallam VIC 3803, Australia",-38.004093,145.274264
+81,89,Springvale,Southern 1,P89,-,-,Yes,"518 Springvale Rd, Springvale South VIC 3172, Australia",-37.97265580000001,145.1477629
+82,90,Patterson River,Southern 1,P90,-,-,Yes,"37 McLeod Rd, Carrum VIC 3197, Australia",-38.074373,145.127896
+83,91,Frankston,Southern 2,"P91A, P91B",-,-,Yes,"3 Cranbourne Rd, Frankston VIC 3199, Australia",-38.1459748,145.1264364
+84,92,Cranbourne,Southern 2,P92,-,-,Yes,"10 Arundel St, Cranbourne VIC 3977, Australia",-38.1037024,145.2838981
+85,93,Pakenham,Southern 2,P93,-,-,Yes,"780C Princes Hwy, Pakenham VIC 3810, Australia",-38.0618163,145.4530208
+86,94,Mornington,Southern 2,P94,-,-,Yes,"859 Nepean Hwy, Mornington VIC 3931, Australia",-38.2310203,145.0423285
+87,95,Rosebud,Southern 2,P95,-,-,Yes,"99 Boneo Rd, Rosebud VIC 3939, Australia",-38.3703303,144.8899153
