@@ -1,0 +1,335 @@
+,Stations,Address,lat,lng
+0,ALEXANDRIA Fire Station,"179 Wyndham Street, Alexandria NSW 2015",-33.9045153,151.2008656
+1,BALMAIN Fire Station,"391 Darling Street, Balmain NSW 2041",-33.8560028,151.1770307
+2,BONDI Fire Station,"359 Old South Head Road, Bondi NSW 2026",-33.8823156,151.2699503
+3,CITY OF SYDNEY Fire Station,"211-217 Castlereagh Street, Sydney NSW 2000",-33.8751128,151.208666
+4,DARLINGHURST Fire Station,"100-102 Victoria Street, Darlinghurst NSW 2010",-33.8708543,151.2232788
+5,GLEBE Fire Station,"75 St Johns Rd, Glebe NSW 2037",-33.8809353,151.1871033
+6,LEICHHARDT Fire Station,"1 Marion Street, Leichhardt NSW 2040",-33.8833959,151.1588448
+7,PYRMONT Fire Station,"147 Pyrmont Street, Pyrmont NSW 2009",-33.8714162,151.1959017
+8,REDFERN Fire Station,"113 George Street, Redfern NSW 2016",-33.8933234,151.2022987
+9,THE ROCKS Fire Station,"166 Kent Street, The Rocks NSW 2000",-33.8618147,151.2041098
+10,WOOLLAHRA Fire Station,"2 Forth Street, Woollahra NSW 2025",-33.8865697,151.2405726
+11,AVALON Fire Station,"689 Old Barrenjoey  Road, Avalon NSW 2107",-33.6385532,151.328054
+12,BEECROFT Fire Station,"109 Beecroft Road, Beecroft NSW 2119",-33.7507432,151.0652856
+13,BEROWRA Fire Station,"9 Berowra Waters Road, Berowra NSW 2081",-33.6237976,151.1503102
+14,CROWS NEST Fire Station,"99 Shirley Road, Crows Nest NSW 2065",-33.8281918,151.2000904
+15,DEE WHY Fire Station,"38 Fisher Road, Dee Why NSW 2099",-33.7518393,151.2849053
+16,FORESTVILLE Fire Station,"8 Cook Street, Forestville NSW 2087",-33.760758,151.2187196
+17,GORDON Fire Station,"966 Pacific Highway, Gordon (Pymble) NSW 2072",-33.7491933,151.1457131
+18,HORNSBY Fire Station,"2 Bridge Road, Hornsby NSW 2077",-33.6974972,151.0983162
+19,LANE COVE Fire Station,"55-57 Dickson Ave, Artarmon NSW 2064",-33.8162733,151.1828696
+20,MANLY Fire Station,"128 Sydney Road, Fairlight NSW 2094",-33.7957614,151.2775119
+21,MONA VALE Fire Station,"6 Harkeith Street, Mona Vale NSW 2103",-33.6762265,151.3066913
+22,MOSMAN Fire Station,"730 Military Road, Mosman NSW 2088",-33.8251914,151.242827
+23,NARRABEEN Fire Station,"9 Ocean Street, Narrabeen NSW 2101",-33.7207563,151.298536
+24,NEUTRAL BAY Fire Station,"28 Yeo Street, Neutral Bay NSW 2089",-33.8318956,151.2209472
+25,WILLOUGHBY Fire Station,"53 Laurel Street, Willoughby NSW 2068",-33.80046730000001,151.2000096
+26,ASHFIELD Fire Station,"16 Victoria Street, Ashfield NSW 2131",-33.8913388,151.1302387
+27,BANKSTOWN Fire Station,"353 Liverpool Road, Bankstown NSW 2200",-33.887362,151.1222859
+28,BURWOOD Fire Station,"12b Livingstone Street, Burwood NSW 2134",-33.8802519,151.1019434
+29,CAMPSIE Fire Station,"294 - 296 Beamish Street, Campsie NSW 2194",-33.9143369,151.1039243
+30,CHESTER HILL Fire Station,"163 Waldron Road, Chester Hill NSW 2162",-33.88228540000001,150.9947152
+31,CONCORD Fire Station,"153 Concord Road, Concord (North Strathfield) NSW 2137",-33.8584608,151.0925148
+32,DRUMMOYNE Fire Station,"29 - 35 Lyons Road, Drummoyne NSW 2047",-33.8517773,151.1539288
+33,LAKEMBA Fire Station,"210 Haldon Street, Lakemba NSW 2195",-33.9241472,151.0791665
+34,LIDCOMBE Fire Station,"37 Church Street, Lidcombe NSW 2141",-33.8634087,151.0453388
+35,MARRICKVILLE Fire Station,"309 Marrickville Road, Marrickville NSW 2204",-33.909121,151.1538378
+36,NEWTOWN Fire Station,"214-216 Australia Street, Newtown NSW 2042",-33.8964553,151.1785354
+37,REVESBY Fire Station,"60 The River Road, Revesby NSW 2212",-33.9428604,151.0179814
+38,RHODES Fire Station,"438 Concord Road, Rhodes NSW 2138",-33.829969,151.0881014
+39,SILVERWATER Fire Station,"122 Adderely Street, Silverwater NSW 2141",-33.8397701,151.0363168
+40,BLACKTOWN Fire Station,"222 Richmond Road, Woodcroft NSW 2767",-33.7524507,150.887061
+41,CASTLE HILL Fire Station,"380 Old Northern Road, Castle Hill NSW 2154",-33.7176272,151.0186181
+42,CRANEBROOK Fire Station,"137 - 139 Vincent Road, Cranebrook NSW 2479",-33.7033383,150.7087959
+43,ROPES CROSSING Fire Station,"1a Ellsworth Drive, Tregear NSW 2770",-33.7405104,150.7858342
+44,HUNTINGWOOD Fire Station,"42 Huntingwood Drive, Huntingwood NSW 2148",-33.7972675,150.8797
+45,KELLYVILLE Fire Station,"1-5 Poole Road, Kellyville NSW 2155",-33.7098399,150.949569
+46,MOUNT DRUITT Fire Station,"81 Railway Street, Mount Druitt NSW 2770",-33.7650198,150.831242
+47,BAULKHAM HILLS Fire Station,"130 Seven Hills Rd, Baulkham Hills NSW 2153",-33.7617743,150.9746925
+48,PENRITH Fire Station,"290-294 High Street, Penrith NSW 2750",-33.7548736,150.7022838
+49,REGENTVILLE Fire Station,"2-6 Jeanette Street, Regentville NSW 2745",-33.7738488,150.6698602
+50,RIVERSTONE Fire Station,"66 Riverstone Parade, Riverstone NSW 2765",-33.67526050000001,150.8592292
+51,SCHOFIELDS Fire Station,"58 Hambledon Rd, Schofields NSW 2762",-33.7132563,150.8936344
+52,SEVEN HILLS Fire Station,"10 Leabons Lane, Seven Hills NSW 2147",-33.7833771,150.9244846
+53,ST. MARYS Fire Station,"1 Marsden Road, ST Marys NSW 2760",-33.7737898,150.7863141
+54,BONNYRIGG HEIGHTS Fire Station,"70 Gloucester Street, Bonnyrigg Heights NSW 2177",-33.8890803,150.8614606
+55,CABRAMATTA Fire Station,"100 St Johns Rd, Cabramatta NSW 2166",-33.88865500000001,150.9230756
+56,EASTWOOD Fire Station,"269 Rowe Street, Eastwood NSW 2122",-33.7921278,151.0773869
+57,YENNORA Fire Station,"198 Fairfield Road, Yennora  NSW 2161",-33.8589324,150.9587362
+58,GLADESVILLE Fire Station,"7a Pittwater Road, Gladesville NSW 2111",-33.8298619,151.1276605
+59,GUILDFORD Fire Station,"263 Guildford Road, Guildford NSW 2161",-33.8542862,150.9884009
+60,MERRYLANDS Fire Station,"340 Merrylands Road, Merrylands NSW 2160",-33.835079,150.9815352
+61,PARRAMATTA Fire Station,"110-114 Wigram Street, Harris Park (Parramatta) NSW 2150",-33.819826,151.0089241
+62,RYDALMERE Fire Station,"75 Park Road, Rydalmere NSW 2116",-33.8102092,151.0424504
+63,RYDE Fire Station,"216 - 218 Blaxland Road, Ryde NSW 2112",-33.8091591,151.1055573
+64,SMITHFIELD Fire Station,"875 The Horsley Drive, Smithfield - Fire Station NSW 2164",-33.850687,150.9224776
+65,WENTWORTHVILLE Fire Station,"6 Garfield Street, Wentworthville NSW 2145",-33.808375,150.9700404
+66,BLACKHEATH Fire Station,"223-225 Great Western Highway, Blackheath NSW 2785",-33.6366962,150.2853335
+67,GLENBROOK Fire Station,"21 Wascoe Street, Glenbrook NSW 2773",-33.7640576,150.6163885
+68,KATOOMBA Fire Station,"14 Cascade Street, Katoomba NSW 2780",-33.7119846,150.3096612
+69,LAWSON Fire Station,"306-307 Great Western Highway, Lawson NSW 2783",-33.7214953,150.426909
+70,LEURA Fire Station,"194-196 The Mall, Leura NSW 2780",-33.7144414,150.3310079
+71,LITHGOW Fire Station,"58 Cook Street, Lithgow NSW 2790",-33.4817285,150.1572696
+72,LITHGOW WEST Fire Station,"36 Rabaul Street, Lithgow  (Lithgow West) NSW 2790",-33.4947691,150.1387615
+73,MT. VICTORIA Fire Station,"31-33 Montgomery Street, Mount Victoria NSW 2786",-33.5883857,150.2533586
+74,PORTLAND Fire Station,"69 Williwa Street, Portland NSW 2847",-33.353849,149.9844671
+75,RICHMOND Fire Station,"43 March St, Richmond NSW 2753",-33.6000327,150.7543694
+76,SPRINGWOOD Fire Station,"282 Macquarie Street, Springwood NSW 2777",-33.7003146,150.5630463
+77,WALLERAWANG Fire Station,"1 Cripps Avenue, Wallerawang NSW 2845",-33.410625,150.0671832
+78,WENTWORTH FALLS Fire Station,"3 Cascade Street, Wentworth Falls NSW 2782",-33.710209,150.3718842
+79,WINDSOR Fire Station,"1 Anderson Place, South Windsor NSW 2756",-33.6212279,150.8075864
+80,BELMONT Fire Station,"635 Pacific Highway, Belmont NSW 2280",-33.038055,151.659789
+81,CARDIFF Fire Station,"18 Taylor Street, Cardiff NSW 2285",-32.9377182,151.6585993
+82,CARRINGTON Fire Station,"49 - 51 Young Street, Carrington NSW 2294",-32.9123693,151.7646066
+83,CHARLESTOWN Fire Station,"3 Charles Street, Charlestown NSW 2290",-32.9673379,151.6961351
+84,LAMBTON Fire Station,"40 Young Road, Lambton NSW 2299",-32.9160164,151.7209351
+85,MAYFIELD WEST Fire Station,"91 Industrial Drive, Mayfield West NSW 2304",-32.8858154,151.7282662
+86,MEREWETHER Fire Station,"39 Llewellyn Street, Merewether NSW 2291",-32.94225730000001,151.7511066
+87,MINMI Fire Station,"20 Woodford Street, Minmi NSW 2287",-32.8727661,151.6190906
+88,MORISSET Fire Station,"68 Newcastle Street, Morisset NSW 2264",-33.1077732,151.4848889
+89,NEWCASTLE Fire Station,"44 Union Street, Newcastle NSW 2300",-32.9297926,151.7663884
+90,STOCKTON Fire Station,"36 Hereford Street, Stockton NSW 2295",-32.9080573,151.7841848
+91,SWANSEA Fire Station,"10 Lake Road, Swansea NSW 2281",-33.0895879,151.6367986
+92,TARRO Fire Station,"8 Eastern Avenue, Tarro NSW 2322",-32.809788,151.663252
+93,TERALBA Fire Station,"54 William Street, Teralba NSW 2284",-32.9629485,151.604525
+94,TINGIRA HEIGHTS Fire Station,"70 Violet Town Road, Tingira Heights NSW 2290",-32.999919,151.667916
+95,TORONTO Fire Station,"42 Mount Waring Road, Toronto NSW 2283",-33.0188105,151.5858348
+96,WALLSEND Fire Station,"15 Summerhill Rd, Wallsend NSW 2287",-32.8879396,151.6560335
+97,WANGI WANGI Fire Station,"26 Donnelly Road, Arcadia Vale NSW 2283",-33.0641734,151.578084
+98,HOLMESVILLE Fire Station,"56 Appletree Rd, Holmesville NSW 2286",-32.9172147,151.5809971
+99,BATEAU BAY Fire Station,"4 Community Drive, Bateau Bay NSW 2261",-33.372353,151.4730531
+100,BERKELEY VALE Fire Station,"8 Craftsman Avenue, Berkeley Vale NSW 2261",-33.3274914,151.4229831
+101,BUDGEWOI Fire Station,"80 Scenic Drive, Budgewoi NSW 2262",-33.2348815,151.5555103
+102,DOYALSON Fire Station,"51-53 Pacific Highway, Doyalson NSW 2262",-33.1981497,151.5232418
+103,GOSFORD Fire Station,"12 Brougham Street, Gosford (East) NSW 2250",-33.4388723,151.3556089
+104,HAMLYN TERRACE Fire Station,"48 Minnesota Road, Hamlyn Terrace NSW 2259",-33.248841,151.4679533
+105,KARIONG Fire Station,"1 Central Coast Highway, Kariong NSW 2250",-33.4332614,151.2965542
+106,SARATOGA Fire Station,"2 Rosemount Street, Saratoga NSW 2251",-33.4761782,151.3521225
+107,TERRIGAL Fire Station,"7 Terrigal Drive, Terrigal NSW 2260",-33.4397445,151.4373003
+108,THE ENTRANCE Fire Station,"24 Boondilla Road, The Entrance NSW 2261",-33.3490101,151.4956991
+109,TOUKLEY Fire Station,"302 Main Road, Toukley NSW 2263",-33.2639814,151.5446505
+110,UMINA Fire Station,"55-59 Trafalgar Ave, Umina NSW 2256",-33.5043988,151.3241522
+111,WYOMING Fire Station,"2 Laycock Street, Wyoming NSW 2250",-33.4100498,151.3499397
+112,WYONG Fire Station,"5 Hely Street, Wyong NSW 2259",-33.2829825,151.4243737
+113,KINCUMBER Fire Station,"836 The Scenic Rd, Kincumber NSW 2251",-33.4791736,151.3990024
+114,ABERMAIN Fire Station,"Cnr Cessnock Road & Charles Street, Abermain NSW 2326",-32.8109231,151.4323101
+115,BELLBIRD Fire Station,"44 Ruby Street, Bellbird NSW 2325",-32.8550446,151.3206109
+116,BRANXTON GRETA Fire Station,"2a Drinan Street, Branxton NSW 2335",-32.6585352,151.3522399
+117,CESSNOCK Fire Station,"4 Edward Street, Cessnock NSW 2325",-32.8334977,151.3575042
+118,DUNGOG Fire Station,"78 Lord Street, Dungog NSW 2420",-32.4032764,151.7545232
+119,EAST MAITLAND Fire Station,"Cnr Chelmsford Drive & Newcastle Street, East Maitland (Metford) NSW 2323",-32.7645032,151.6032426
+120,KEARSLEY Fire Station,"26 Allandale Street, Kearsley NSW 2325",-32.8580019,151.3958796
+121,KURRI KURRI Fire Station,"119 Lang Street, Kurri Kurri NSW 2327",-32.8167943,151.4835661
+122,MAITLAND Fire Station,"14 Church Street, Maitland NSW 2320",-32.7323648,151.5531552
+123,MORPETH Fire Station,"169 Swan Street, Morpeth NSW 2321",-32.7252817,151.6240276
+124,SALAMANDER BAY Fire Station,"194 Salamander way, Salamander Bay NSW 2317",-32.7384114,152.1123131
+125,PAXTON Fire Station,"3 Standford Street, Paxton NSW 2327",-32.9022339,151.2819534
+126,RAYMOND TERRACE Fire Station,"3-5 Leisure Way, Raymond Terrace NSW 2324",-32.758421,151.78241
+127,RUTHERFORD Fire Station,"2 Mustang Drive, Rutherford NSW 2320",-32.7046395,151.5087225
+128,ALBION PARK Fire Station,"3 Russell Street, Albion Park NSW 2527",-34.5730096,150.7740595
+129,BALGOWNIE Fire Station,"117 Balgownie Road, Balgownie NSW 2519",-34.38896160000001,150.8790639
+130,BULLI Fire Station,"325-327 Princes Highway, Bulli NSW 2516",-34.3387327,150.9095652
+131,COLEDALE Fire Station,"759 Lawrence Hargrave Drive, Coledale NSW 2513",-34.2925225,150.9444839
+132,CORRIMAL Fire Station,"120 Princes Highway, Corrimal NSW 2518",-34.3686044,150.8980803
+133,DAPTO Fire Station,"88 Byamee Street, Dapto NSW 2530",-34.4951031,150.7975107
+134,HELENSBURGH Fire Station,"91 Walker Street, Helensburgh NSW 2508",-34.1971662,150.981126
+135,KIAMA Fire Station,"210 Terralong Street, Kiama NSW 2533",-34.6658144,150.8468982
+136,SCARBOROUGH Fire Station,"Wilson Street, Scarborough NSW 2511",-34.2714694,150.959392
+137,SHELLHARBOUR Fire Station,"Wattle Road, Shellharbour NSW 2529",-34.5795873,150.8544016
+138,THIRROUL Fire Station,"240 Lawrence Hargrave Drive, Thirroul NSW 2515",-34.3143064,150.9251677
+139,UNANDERRA Fire Station,"80 Central Road, Unanderra NSW 2526",-34.4511852,150.843196
+140,WARRAWONG Fire Station,"48-50 King Street, Warrawong NSW 2502",-34.4841425,150.8870965
+141,WOLLONGONG Fire Station,"32-36 Denison Street, Wollongong NSW 2500",-34.424896,150.8874607
+142,ARNCLIFFE Fire Station,"100-106 West Botany Street, Arncliffe NSW 2205",-33.9399605,151.1517938
+143,BOTANY Fire Station,"3 Banksia Street, Botany NSW 2019",-33.9447328,151.1973586
+144,BUNDEENA Fire Station,"48 Bundeena Drive, Bundeena NSW 2230",-34.0841606,151.1452049
+145,CRONULLA Fire Station,"91 The Kingsway, Cronulla NSW 2230",-34.0495876,151.1475565
+146,ENGADINE Fire Station,"8 Preston Avenue, Engadine NSW 2233",-34.067474,151.0134109
+147,HURSTVILLE Fire Station,"5-9 Butler Rd, Hurstville NSW 2220",-33.9678443,151.1017066
+148,KOGARAH Fire Station,"26 Gray Street, Kogarah NSW 2217",-33.9667119,151.1324231
+149,MAROUBRA Fire Station,"Cnr Maroubra Road & Flower Street, Maroubra NSW 2035",-33.9427286,151.2472442
+150,MASCOT Fire Station,"139-141 Coward Street, Mascot NSW 2020",-33.9259275,151.1965163
+151,MATRAVILLE Fire Station,"Cnr Beauchamp & Bunnerong Roads, Matraville NSW 2036",-33.9556077,151.2301754
+152,MENAI Fire Station,"297 Menai Road, Menai NSW 2234",-34.0149837,151.0122088
+153,MIRANDA Fire Station,"242 Port Hacking Road, Miranda NSW 2228",-34.0303842,151.1066676
+154,MORTDALE Fire Station,"38 Morts Road, Mortdale NSW 2223",-33.9700515,151.0798461
+155,RANDWICK Fire Station,"4 The Avenue, Randwick NSW 2031",-33.9101488,151.2415973
+156,RIVERWOOD Fire Station,"136A Belmore Road, Riverwood NSW 2210",-33.9564067,151.0517524
+157,SUTHERLAND Fire Station,"2 Moore Street, Sutherland NSW 2232",-34.0327141,151.0551868
+158,BUSBY Fire Station,"101 Cartwright Avenue, Busby NSW 2168",-33.918877,150.8845399
+159,CAMDEN Fire Station,"129 Macarthur Road, Camden (Elderslie) NSW 2570",-34.0645122,150.7114737
+160,CAMPBELLTOWN Fire Station,"66 Broughton Street, Campbeltown NSW 2560",-34.0668812,150.8203031
+161,HORNINGSEA PARK Fire Station,"162 Greenway Drive, Horningsea Park NSW 2171",-33.9435646,150.8368138
+162,INGLEBURN Fire Station,"41 Carlisle Street, Ingleburn NSW 2565",-33.9983994,150.8671827
+163,LIVERPOOL Fire Station,"Anzac Road corner Delfin Drive, Moorebank NSW 2170",-33.944924,150.9319319
+164,MACQUARIE FIELDS Fire Station,"8 Brooks Street, Macquarie Fields NSW 2564",-33.9854035,150.8905144
+165,NARELLAN Fire Station,"12 Exchange Parade, Smeaton Grange ( Narellan) NSW 2567",-34.0393567,150.7493302
+166,PICTON Fire Station,"435 Argyle Street, Picton NSW 2571",-34.190594,150.6046063
+167,ROSEMEADOW Fire Station,"1 Thomas Rose Drive, Rosemeadow NSW 2560",-34.1000355,150.7982085
+168,ST. ANDREWS Fire Station,"9 Swettenham Road, St Andrews NSW 2566",-34.0262916,150.8337158
+169,WARRAGAMBA Fire Station,"3 Fourth Street, Warragamba NSW 2752",-33.8900908,150.605649
+170,BOURKE Fire Station,"25 Mitchell Street, Bourke NSW 2840",-30.0883972,145.9366253
+171,BREWARRINA Fire Station,"98 Bathurst Street, Brewarrina NSW 2839",-29.9616733,146.8600806
+172,COBAR Fire Station,"39 Barton Street, Cobar NSW 2835",-31.4999207,145.8355278
+173,COOLAH Fire Station,"33 Booyamurra Street, Coolah NSW 2843",-31.8251761,149.7172021
+174,COONAMBLE Fire Station,"95 Castlereagh Street, Coonamble NSW 2829",-30.9556762,148.3892286
+175,DELROY Fire Station,"15 Whylandra Street, Delroy (Dubbo) NSW 2830",-32.2442992,148.595601
+176,DUBBO Fire Station,"102 Wheelers Lane, Dubbo NSW 2830",-32.2539928,148.630515
+177,DUNEDOO Fire Station,"30 Digilah Street, Dunedoo NSW 2844",-32.0176581,149.3971957
+178,GILGANDRA Fire Station,"15 Warren Road, Gilgandra NSW 2827",-31.7118563,148.661831
+179,LIGHTNING RIDGE Fire Station,"Pandora Street, Lightning Ridge NSW 2834",-29.429026,147.9854464
+180,NARROMINE Fire Station,"39 Burroway Street, Narromine NSW 2821",-32.233775,148.242141
+181,NYNGAN Fire Station,"100 Lawlor Street, Nyngan NSW 2825",-31.5543092,147.1907324
+182,PARKES Fire Station,"20 Hill Street, Parkes NSW 2870",-33.1368491,148.1773393
+183,PEAK HILL Fire Station,"130 Caswell Street, Peak Hill NSW 2869",-32.7280664,148.1923008
+184,TRANGIE Fire Station,"20 Temoin Street, Trangie NSW 2823",-32.0323429,147.9811018
+185,WALGETT Fire Station,"38 Pitt Street, Walgett NSW 2832",-30.0226338,148.1182347
+186,WARREN Fire Station,"63 Dubbo Street, Warren NSW 2824",-31.6980041,147.8339262
+187,WELLINGTON Fire Station,"76 Warne Street, Wellington NSW 2820",-32.5515286,148.9455953
+188,ABERDEEN Fire Station,"20 Moray St, Aberdeen NSW 2336",-32.1633711,150.8900827
+189,BATHURST Fire Station,"56 Suttor Street, Bathurst NSW 2795",-33.411976,149.5558334
+190,BLAYNEY Fire Station,"23 Church Street, Blaney NSW 2799",-33.5300744,149.2533531
+191,CANOWINDRA Fire Station,"17 Ryall Street, Canowindra NSW 2804",-33.5644777,148.6612289
+192,DENMAN Fire Station,"Rosemount Street, Denman NSW 2328",-32.3924128,150.662462
+193,GULGONG Fire Station,"1 Medley St, Gulgong NSW 2852",-32.3520802,149.5340808
+194,KANDOS Fire Station,"26 Rodgers Street, Kandos NSW 2848",-32.8579105,149.9732341
+195,KELSO Fire Station,"4 Pat OLeary Drive, Kelso NSW 2795",-33.4200701,149.6189126
+196,MERRIWA Fire Station,"109 Bettington Street, Merriwa NSW 2329",-32.1397459,150.356988
+197,MOLONG Fire Station,"100-104 Edward Street, Molong NSW 2866",-33.0977991,148.865323
+198,MUDGEE Fire Station,"95-97 Horatio Street, Mudgee NSW 2850",-32.5995892,149.5866481
+199,MURRURUNDI Fire Station,"44 Mayne Street, Murrurundi NSW 2338",-31.7648144,150.8395246
+200,MUSWELLBROOK Fire Station,"6 Market Street, Muswellbrook NSW 2333",-32.2662315,150.8898584
+201,OBERON Fire Station,"51 North Street, Oberon NSW 2787",-33.7032464,149.8540998
+202,ORANGE Fire Station,"79 Summer Street, Orange NSW 2800",-33.2825586,149.0948153
+203,SCONE Fire Station,"106 Kingdon Street, Scone NSW 2337",-32.052621,150.8679551
+204,SINGLETON Fire Station,"1A Pitt Street, Singleton NSW 2330",-32.5651105,151.1685179
+205,BALRANALD Fire Station,"123 Market Street, Balranald NSW 2715",-34.6377602,143.5610484
+206,BROKEN HILL Fire Station,"248 Blende Street, Broken Hill NSW 2880",-31.9576038,141.4638815
+207,BROKEN HILL STH Fire Station,"151 Patton Street, Broken Hill NSW 2880",-31.9794277,141.4621769
+208,CONDOBOLIN Fire Station,"26 Marsden Street, Condobolin NSW 2877",-33.0881415,147.1507864
+209,COOLAMON Fire Station,"67 Bruce Street, Coolamon NSW 2701",-34.8135204,147.2032979
+210,GRIFFITH Fire Station,"11 Jondaryan Avenue, Griffith NSW 2680",-34.2897883,146.0508001
+211,HAY Fire Station,"380 Macauley Street, Hay NSW 2711",-34.5023615,144.8477054
+212,HILLSTON Fire Station,"130 High Street, Hillston NSW 2675",-33.483941,145.5348674
+213,JUNEE Fire Station,"Lisgar Street, Junee NSW 2663",-34.8706778,147.5871223
+214,LAKE CARGELLIGO Fire Station,"Reef Street, Lake Cargelligo NSW 2672",-33.2997832,146.3712705
+215,LEETON Fire Station,"19 Wade Avenue, Leeton NSW 2705",-34.5507864,146.4061108
+216,NARRANDERA Fire Station,"23 Twynam Street, Narrandera NSW 2700",-34.7464508,146.5512458
+217,TEMORA Fire Station,"147 De Boos Street, Temora NSW 2666",-34.4479447,147.5361372
+218,WENTWORTH Fire Station,"82 Adams Street, Wentworth NSW 2648",-34.1052672,141.9169593
+219,WEST WYALONG Fire Station,"39 Court Street, West Wyalong NSW 2671",-33.92461420000001,147.2034765
+220,YENDA Fire Station,"5 South Avenue, Yenda NSW 2681",-34.2520271,146.196438
+221,BELLINGEN Fire Station,"22 Hyde Street, Bellingen NSW 2454",-30.4527438,152.8995768
+222,BOWRAVILLE Fire Station,"55 High Street, Bowraville NSW 2449",-30.6484828,152.8527323
+223,COFFS HARBOUR Fire Station,"9-11 Market Street, Coffs Harbour NSW 2450",-30.2988481,153.1129924
+224,DORRIGO Fire Station,"2 Cudgery Street, Dorrigo NSW 2453",-30.3398796,152.7099119
+225,FORSTER Fire Station,"22 Lake Street, Forster NSW 2428",-32.1830743,152.5169866
+226,GLOUCESTER Fire Station,"40 King Street, Gloucester NSW 2422",-32.0081099,151.9598157
+227,KEMPSEY Fire Station,"78 Elbow St, Kempsey NSW 2240",-31.081004,152.828178
+228,LAURIETON Fire Station,"33 Castle Street, Laurieton NSW 2443",-31.6457879,152.7961219
+229,MACKSVILLE Fire Station,"26 Wallace Street, Macksville NSW 2447",-30.70769959999999,152.9190058
+230,NAMBUCCA HEADS Fire Station,"8 Ken Howard Crescent, Nambucca Heads NSW 2448",-30.6350746,152.9795277
+231,PORT MACQUARIE Fire Station,"5 Central Rd, Port Macquarie NSW 2444",-31.4443888,152.8933477
+232,SAWTELL Fire Station,"140 Sawtell Road, Toormina NSW 2452",-30.3508046,153.0901485
+233,SOUTH WEST ROCKS Fire Station,"31 Sturt Street, South West Rocks NSW 2431",-30.8926636,153.0398937
+234,TAREE Fire Station,"75 Pulteney St Cnr Wynter Street, Taree NSW 2430",-31.9103627,152.4570882
+235,TEA GARDENS Fire Station,"135 Marine Drive, Tea Gardens NSW 2324",-32.6695966,152.1645757
+236,URUNGA Fire Station,"36 Bonville Street, Urunga NSW 2455",-30.4971684,153.0209986
+237,WAUCHOPE Fire Station,"22 Young Street, Wauchope NSW 2446",-31.4556938,152.7308265
+238,WINGHAM Fire Station,"22 Farquhar Street, Wingham NSW 2429",-31.8706107,152.37243
+239,WOOLGOOLGA Fire Station,"1867 Solitary Islands Way, Woolgoolga NSW 2456",-30.1104881,153.1901482
+240,ALSTONVILLE Fire Station,"1 Mellis Circuit, Alstonville NSW 2477",-28.8441745,153.4402354
+241,BALLINA Fire Station,"60 Tamarind Drive, Ballina NSW 2478",-28.8530282,153.5566944
+242,BANGALOW Fire Station,"56 Byron Street, Bangalow NSW 2479",-28.686426,153.5257522
+243,BRUNSWICK HEADS Fire Station,"4 Fingal Street, Brunswick Heads NSW 2483",-28.5408861,153.5508954
+244,BYRON BAY Fire Station,"3 Kingsley Street, Byron Bay NSW 2481",-28.6474225,153.613372
+245,CASINO Fire Station,"43 Hickey Street, Casino NSW 2470",-28.8629279,153.0511159
+246,CORAKI Fire Station,"16 Adams Street, Coraki NSW 2471",-28.9910688,153.2864303
+247,EVANS HEAD Fire Station,"76 Woodburn Street, Evans Head NSW 2473",-29.1134657,153.4278951
+248,GOONELLABAH Fire Station,"13 Taylor Avenue, Goonellabah NSW 2480",-28.8176294,153.3185264
+249,GRAFTON Fire Station,"94 Prince Street, Grafton NSW 2460",-29.6891761,152.9355553
+250,KINGSCLIFF Fire Station,"Marine Parade, Kingscliff NSW 2487",-28.2499303,153.5711715
+251,KYOGLE Fire Station,"Bloore Street, Kyogle NSW 2474",-28.6216262,153.0025261
+252,LISMORE Fire Station,"139-141 Molesworth Street, Lismore NSW 2480",-28.809491,153.2750798
+253,MACLEAN Fire Station,"251 River Street, Maclean NSW 2463",-29.4573763,153.196886
+254,MULLUMBIMBY Fire Station,"57 Dalley Street, Mullumbimby NSW 2482",-28.5524339,153.4995004
+255,MURWILLUMBAH Fire Station,"133 Murwillumbah Street, Murwillumbah NSW 2484",-28.3261492,153.3954972
+256,SOUTH GRAFTON Fire Station,"64 Wharf Street, South Grafton NSW 2460",-29.7049975,152.935969
+257,TWEED HEADS Fire Station,"1 Dry Dock Road, Tweed Heads NSW 2485",-28.187436,153.5395336
+258,BANORA POINT Fire Station,"4/23 Corporation Circuit, Tweed Heads South NSW 2486",-28.2051747,153.5389403
+259,YAMBA Fire Station,"14 River Street, Yamba NSW 2464",-29.4383845,153.3591626
+260,ARMIDALE Fire Station,"66 Barney Street, Armidale NSW 2350",-30.5177829,151.668256
+261,BARRABA Fire Station,"73 Henry Street, Barraba NSW 2347",-30.3836635,150.6009723
+262,BINGARA Fire Station,"44 Finch Street, Bingara NSW 2404",-29.8671146,150.5704369
+263,BOGGABRI Fire Station,"175 Merton Street, Boggabri NSW 2382",-30.703342,150.0445114
+264,COONABARABRAN Fire Station,"64 Cassilis Street, Coonabarabran NSW 2357",-31.2753879,149.2789932
+265,GLEN INNES Fire Station,"202 Bourke Street, Glen Innes NSW 2370",-29.7389544,151.7375505
+266,GUNNEDAH Fire Station,"96 Barber Street, Gunnedah NSW 2380",-30.9788339,150.2515372
+267,GUYRA Fire Station,"73 Ollera Street, Guyra NSW 2365",-30.2165245,151.6702655
+268,INVERELL Fire Station,"59 Evans Street, Inverell NSW 2360",-29.7746819,151.1149478
+269,MANILLA Fire Station,"Strafford St, Manilla NSW 2346",-30.7463088,150.7247101
+270,MOREE Fire Station,"179 Balo Street, Moree NSW 2400",-29.4656255,149.8412678
+271,NARRABRI Fire Station,"2 Doyle Street, Narrabri NSW 2390",-30.324721,149.783699
+272,QUIRINDI Fire Station,"3 Dalley Street, Quirindi NSW 2343",-31.5040741,150.6796663
+273,TAMWORTH Fire Station,"103 Carthage Street, Tamworth NSW 2340",-31.0883892,150.9335921
+274,TENTERFIELD Fire Station,"125 Logan Street, Tenterfield NSW 2372",-29.0556092,152.021216
+275,URALLA Fire Station,"28 Salisbury St, Uralla NSW 2358",-30.6440071,151.5001238
+276,WALCHA Fire Station,"9W Hamilton Street, Walcha NSW 2354",-30.9838296,151.5924754
+277,WARIALDA Fire Station,"19 Geddes Street, Warialda NSW 2402",-29.5428079,150.5720472
+278,WEE WAA Fire Station,"56 Rose Street, Wee Waa NSW 2388",-30.2266149,149.4412623
+279,WERRIS CREEK Fire Station,"11 Coronation Ave, Werris Creek NSW 2341",-31.3517131,150.6489789
+280,SOUTH TAMWORTH Fire Station,"13 The Ringers Road, Hillvue NSW 2340",-31.12686429999999,150.922537
+281,BATEMANS BAY Fire Station,"1 Heradale Parade, Batemans Bay NSW 2536",-35.7132694,150.1837151
+282,BEGA Fire Station,"114 Gipps Street, Bega NSW 2550",-36.6768575,149.8431156
+283,BERRY Fire Station,"26 Prince Alfred Street, Berry NSW 2535",-34.7765102,150.6989931
+284,BOMBALA Fire Station,"182-184 Maybe Street, Bombala NSW 2632",-36.9140214,149.2362002
+285,BRAIDWOOD Fire Station,"13 Park Lane, Braidwood NSW 2622",-35.44259,149.798971
+286,COOMA Fire Station,"84 Massie Street, Cooma NSW 2630",-36.2354024,149.1227654
+287,EDEN Fire Station,"30 Mitchell Street, Eden NSW 2551",-37.06408030000001,149.9020879
+288,JINDABYNE Fire Station,"10 Thredbo Terrace, Jindabyne NSW 2627",-36.4165576,148.6230334
+289,MERIMBULA Fire Station,"17-19 Monaro Street, Merimbula NSW 2548",-36.8902915,149.9087425
+290,MORUYA Fire Station,"15 Church Street, Moruya NSW 2537",-35.9094229,150.0821232
+291,NAROOMA Fire Station,"3 Clarke Street, Narooma NSW 2546",-36.2209019,150.1336633
+292,NOWRA Fire Station,"69 Bridge Road, Nowra NSW 2541",-34.870832,150.6006153
+293,PERISHER VALLEY Fire Station,"Kosciusko Road, Perisher Valley NSW 2624",-36.4115727,148.4004275
+294,QUEANBEYAN Fire Station,"41 Campbell Street, Queanbeyan NSW 2620",-35.3506743,149.2292222
+295,THREDBO Fire Station,"1 Friday Drive, Thredbo Village NSW 2625",-36.4992829,148.31121
+296,ULLADULLA Fire Station,"46 Nurrawallee, Ulladulla NSW 2539",-35.3503436,150.4767643
+297,SHOALHAVEN Fire Station,"1/34 Norfolk Avenue, Nowra NSW 2541",-34.915158,150.5800271
+298,BATLOW Fire Station,"32 Mill Road, Batlow NSW 2730",-35.5227656,148.1488366
+299,BOOROWA Fire Station,"70 Pudman Street, Boorowa NSW 2586",-34.4375779,148.7214931
+300,BOWRAL Fire Station,"16 Merrigang Street, Bowral NSW 2576",-34.4777126,150.4194357
+301,BUNDANOON Fire Station,"15 Anzac Parade, Bundanoon NSW 2578",-34.6566358,150.2974709
+302,COOTAMUNDRA Fire Station,"14 - 16 Adams Street, Cootamundra NSW 2590",-34.6359629,148.0280148
+303,COWRA Fire Station,"124 Kendall Street, Cowra NSW 2794",-33.8347807,148.6944961
+304,CROOKWELL Fire Station,"155 Goulburn Street, Crookwell NSW 2583",-34.4592285,149.4711234
+305,FORBES Fire Station,"46 Templar Street, Forbes NSW 2871",-33.3849652,148.0093467
+306,GOULBURN Fire Station,"157 - 161 Bourke Street, Goulburn NSW 2580",-34.75167160000001,149.7181866
+307,GRENFELL Fire Station,"69 Camp Street, Grenfell NSW 2810",-33.8952535,148.1619313
+308,GUNDAGAI Fire Station,"28 Otway Street, Gundagai NSW 2722",-35.0625219,148.1032951
+309,HARDEN Fire Station,"141 Albury Street, Harden NSW 2587",-34.5534736,148.3649608
+310,MITTAGONG Fire Station,"10 Bowral Road, Mittagong NSW 2575",-34.4514325,150.4470681
+311,MOSS VALE Fire Station,"64 Elizabeth Street, Moss Vale NSW 2577",-34.5497835,150.3736199
+312,TUMUT Fire Station,"146 Wynyard Street, Tumut NSW 2720",-35.3024417,148.2212133
+313,YASS Fire Station,"90 Meehan Street, Yass NSW 2582",-34.8420226,148.9120102
+314,YOUNG Fire Station,"34 Lynch Street, Young NSW 2594",-34.3127311,148.2983783
+315,ALBURY CENTRAL Fire Station,"817 - 821 Mate Street, Albury Central (Albury North) NSW 2640",-36.0659559,146.930641
+316,ALBURY CIVIC Fire Station,"565 Kiewa Street, Albury Civic NSW 2640",-36.0771278,146.9160892
+317,NORTH ALBURY Fire Station,"596 Nagle Road, Lavington NSW 2641",-36.0352516,146.9575478
+318,BARHAM Fire Station,"40 Wakool Street, Barham NSW 2732",-35.6279793,144.129738
+319,BERRIGAN Fire Station,"7 Cobram Road, Berrigan NSW 2712",-35.65818,145.8093276
+320,COROWA Fire Station,"57 Riesling Street, Corowa NSW 2646",-35.9964242,146.3922592
+321,CULCAIRN Fire Station,"5 Black Street, Culcairn NSW 2660",-35.6656572,147.0358767
+322,DENILIQUIN Fire Station,"264 George Street, Deniliquin NSW 2710",-35.5291633,144.9645116
+323,FINLEY Fire Station,"239 Murray Street, Finley NSW 2713",-35.6445878,145.5754664
+324,HENTY Fire Station,"14 Allan Street, Henty NSW 2658",-35.5174393,147.0323664
+325,HOLBROOK Fire Station,"62 Swift Street, Holbrook NSW 2644",-35.7192025,147.3193618
+326,JERILDERIE Fire Station,"23 Southey St, Jerilderie NSW 2716",-35.3588616,145.7201394
+327,LOCKHART Fire Station,"84 Ferrier Street, Lockhart NSW 2656",-35.22013159999999,146.7157815
+328,MOAMA Fire Station,"30-32 Maiden Street, Moama NSW 2739",-36.1096292,144.7583572
+329,MULWALA Fire Station,"73 Melbourne Street, Mulwala NSW 2647",-35.9882811,146.0057962
+330,TOCUMWAL Fire Station,"64 Deniliquin Street, Tocumwal NSW 2714",-35.8118524,145.5669732
+331,TUMBARUMBA Fire Station,"36 Winton Street, Tumbarumba NSW 2653",-35.7800108,148.0112427
+332,TURVEY PARK Fire Station,"75 Fernleigh Road, Turvey Park (Wagga Wagga) NSW 2650",-35.1321518,147.3552826
+333,WAGGA WAGGA Fire Station,"36-38 The Esplanade, Wagga Wagga NSW 2650",-35.1103301,147.3657949
